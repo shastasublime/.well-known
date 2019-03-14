@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: shastasublime.github.io
-Token: 70ccb591efd32dcd0b88451d3f5bbb84a5ed0bdca7b4240895903349146f441b
